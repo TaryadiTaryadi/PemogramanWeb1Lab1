@@ -17,6 +17,18 @@ ini adalah tampilannya
 ![Gambar 3](Screenshoot/ss3.png)
 
 ###### Menyisipkan Gambar
-kode tag untuk menyisipkan gambar adalah `<img src="LOGO_UPB.png" width="200" title="Logo Universitas Pelita Bangsa"> di tag ini dipakai untuk menyisipkan gambar dengan menggunakan ukuran (width) 200px dan memberikan keterangan gambar (title)
+kode tag untuk menyisipkan gambar adalah `<img src="LOGO_UPB.png" width="200" title="Logo Universitas Pelita Bangsa"> di tag ini dipakai untuk menyisipkan gambar dengan menggunakan ukuran (width) 200px dan memberikan keterangan gambar (title)`
 ini adalah tampilannya
 ![Gambar 4](Screenshoot/ss4.png) 
+
+###### Menambahkan Hyperlink
+kode tag untuk menambahkan hyperlink adalah 
+`<!-- menambahkan link navigasi --> `
+`<nav>`
+    `<a href="lab1_tag_dasar.html">Dasar HTML</a>`
+    `<a href="lab1_halaman2.html">Halaman 2</a>`
+   ` <a href="http://www.google.com">Halaman Web Eksternal Google</a>`
+`</nav>`
+`<hr> ` 
+ini adalah tampilannya
+![Gambar 5](Screenshoot/ss5.png)
