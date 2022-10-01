@@ -1,7 +1,7 @@
 # PemogramanWeb1Lab1
 ## Belajar Tag Dasar HTML
 
-### Memrubah Title
+### Memrubah Title pada HTML
 Kode tag untuk title adalah `<title>Tag HTML Dasar</title>`
 ini adalah tampilannya
 ![Gambar 6](Screenshoot/ss6.png)
