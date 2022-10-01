@@ -1,6 +1,11 @@
 # PemogramanWeb1Lab1
 ## Belajar Tag Dasar HTML
 
+### Memrubah Title
+Kode tag untuk title adalah `<title>Tag HTML Dasar</title>`
+ini adalah tampilannya
+![Gambar 6](Screenshoot/ss6.png)
+
 ### Membuat Paragraf
 kode tag untuk paragraf adalah `<p>`
 ini adalah tampilannya
